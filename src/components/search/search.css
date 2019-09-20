@@ -1,0 +1,45 @@
+.search-container {
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+}
+
+.search-field {
+    width: 200px;
+    margin-left: 10px;
+}
+
+.date-container {
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+}
+
+.month1 {
+    margin-left: 10px;
+}
+
+.year1 {
+    margin-left: 5px;
+    margin-right: 10px;
+}
+
+.month2 {
+    margin-left: 10px;
+}
+
+.year2 {
+    margin-left: 5px;
+    margin-right: 10px;
+}
+
+.clear-div {
+    margin: auto;
+    width: 95px;
+    padding: 5px;
+}
+
+.clear-search{
+    background-color: red;
+    color: white;
+}

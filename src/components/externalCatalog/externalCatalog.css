@@ -1,0 +1,38 @@
+
+.publish-button{
+    background-color:green;
+    border: none;
+    color: white;
+    border-radius: 25px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    height: 40px;
+    width: 150px;
+}
+
+.view-catalog{
+    justify-content: center;
+}
+
+.view-data {
+    color: black;
+    font-size: 15px;
+}
+
+.publish {
+    margin: auto;
+    width: 150px;
+    padding-bottom: 10px;
+}
+
+.publish2 {
+    text-align: center;
+    margin: auto;
+    width: 550px;
+    padding-bottom: 10px;
+}
+
+.catalog-error{
+    color: black;
+}

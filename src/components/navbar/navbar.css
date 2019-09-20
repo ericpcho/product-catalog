@@ -1,0 +1,59 @@
+nav {
+    background-color: black;
+}
+
+.nav-buttons {
+    display: flex;
+}
+
+.logo-image {
+    margin: auto;
+    display: block;
+    height: 100px;
+}
+
+.invisible-item{
+    margin-right: auto;
+    visibility: hidden;
+}
+
+.import {
+    color: white;
+    font-size: 10px;
+    align-self: flex-end;
+    margin-left: auto;
+}
+
+.view-catalog {
+    color: white;
+    font-size: 25px;
+}
+
+.view-catalog:hover {
+    cursor: pointer;
+}
+
+.home {
+    color: white;
+    font-size: 25px;
+}
+
+.home:hover{
+    cursor: pointer;
+}
+
+.home-focused {
+    color: #25A1E8;
+    font-size: 25px;
+}
+
+.catalog-focused {
+    color: #25A1E8;
+    font-size: 25px;
+}
+
+a {
+    padding-right: 10px;
+    margin-right: 20px;
+    padding-bottom: 5px;
+}
