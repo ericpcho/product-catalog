@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "html2canvas": "^1.0.0-alpha.12",
-    "papaparse": "^4.5.0",
+    "papaparse": "^5.2.0",
     "pdfmake": "^0.1.38",
     "react": "^16.4.0",
     "react-dom": "^16.4.0",
